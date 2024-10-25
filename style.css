@@ -1,0 +1,138 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+
+  header {
+    font-size: 32px;
+    color: white;
+    background-color: darkred;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    size: 15px;
+  }
+  
+  h1 {
+    color: darkred;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  
+  .primeira {
+    background-color: var(--palid-rose);
+    display: flex;
+    align-items: center;
+    margin-bottom: 2.2rem;
+  }
+  
+  .primeira p {
+    max-width: 21.5rem;
+    margin-inline: 2rem 2rem;
+  }
+  
+  .primeira img {
+    width: 12rem;
+    margin-block: 1rem;
+    border-radius: 25px;
+
+  }
+
+  .imagem{
+    width: 12rem;
+    margin-block: 1rem;
+    border-radius: 25px;
+    margin-left: 40px;
+  }
+  
+
+.img{
+  width: 12rem;
+  margin-block: 1rem;
+  border-radius: 25px;
+  margin-left: 40px;
+}
+
+.atreus {
+    color: rgb(0, 139, 16);
+    margin-right: 70px;
+    margin-left: 10px;
+    display: flex;
+
+}
+  .segunda {
+    background-color: lightgrey;
+    height: 14rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .segunda p {
+   max-width: 21.5rem;
+    margin-right: 70px;
+  }
+  
+  .treus{
+    width: 8rem;
+    margin-left: 30px;
+    border-radius: 25px;
+
+  }
+
+  .imagem b{
+    margin-right: 10rem;
+    width: 16rem;
+    height: 11.2rem;
+  }
+
+  .imagemc{
+    margin-left:40px;
+    margin-right: 20px;
+    width: 16rem;
+    border-radius: 25px;
+  }
+  
+  .terceira {
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    margin-bottom: 2.2rem;
+  }
+  .terceira p {
+    max-width: 21.5rem;
+     margin-left: 20px;
+   }
+   
+.mimir{
+    color: rgb(0, 183, 255);
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+  .mi {
+    margin-left: 70px;
+    margin-right: 40px;
+    width: 10rem;
+    border-radius: 25px;
+    
+  }
+
+
+.imagemb{
+  width: 8rem;
+  margin-left: 30px;
+  border-radius: 25px;
+}
+.mir{
+    margin-left:50px;
+    margin-right: 10px;
+    width: 8rem;
+    border-radius: 25px;
+    max-height: 10rem;
+  }
